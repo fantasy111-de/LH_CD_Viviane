@@ -4,7 +4,10 @@ Este repositório contém um projeto de análise de dados utilizando Jupyter Not
 
 ## Estrutura do Repositório
 
-*   `analise.ipynb`: O Jupyter Notebook principal contendo a análise de dados.
+*   `data/desafio_indicium_imdb.csv` : Dados utilizados na análise
+*   `../images`: pasta para onde irão os gráficos gerados durante a análise
+*   `models/modelo_imdb`: modelo em formato pickle
+*   `notebooks/analise.ipynb`: O Jupyter Notebook principal contendo a análise de dados.
 *   `requirements.txt`: Lista de todas as bibliotecas Python e suas versões necessárias para executar o projeto.
 *   `README.md`: Este arquivo, explicando a estrutura do projeto e como executá-lo.
 
@@ -49,8 +52,5 @@ jupyter notebook
 
 Seu navegador padrão será aberto com a interface do Jupyter. Navegue até o arquivo `analise.ipynb` e clique nele para abri-lo. Você poderá então executar as células do notebook para ver a análise de dados.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto. Para isso, faça um fork do repositório, crie uma nova branch para suas alterações e envie um pull request.
 
 
