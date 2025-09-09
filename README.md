@@ -29,7 +29,7 @@ cd <NOME_DO_REPOSITORIO>
 É altamente recomendável usar um ambiente virtual para gerenciar as dependências do projeto. Isso evita conflitos com outras instalações Python em seu sistema.
 
 ```bash
-python3.11 -m venv venv
+python3.12 -m venv venv
 source venv/bin/activate  # No Linux/macOS
 # venv\Scripts\activate   # No Windows
 ```
